@@ -23,3 +23,4 @@ jobs:
           npm ci
           npx ts-node-script ./index.ts
         working-directory: ./script/validate-data
+        
